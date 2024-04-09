@@ -1,14 +1,15 @@
 {
-    "name": "orumad/laravel-spanish-validator",
+    "name": "moa-ti/laravel-spanish-validator",
     "description": "Laravel validator for spanish stuff: NIF, NIE, CIF, NSS, IBAN, Postal Code, Phone numbers",
     "keywords": [
+        "moa-ti",
         "orumad",
         "laravel validation rules",
         "laravel",
         "laravel package",
         "laravel validator"
     ],
-    "homepage": "https://github.com/orumad/laravel-spanish-validator",
+    "homepage": "https://github.com/moa-ti/laravel-spanish-validator",
     "license": "MIT",
     "authors": [
         {
@@ -19,9 +20,9 @@
         }
     ],
     "require": {
-        "php": "^8.0|^8.1|^8.2",
+        "php": "^8.2|^8.3",
         "globalcitizen/php-iban": "^4.2",
-        "illuminate/support": "^10.0"
+        "illuminate/support": "^11.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8.0",
