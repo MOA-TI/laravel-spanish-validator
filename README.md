@@ -24,7 +24,7 @@ Also the package include validators for:
 The package can be installed via composer:
 
 ```bash
-composer require orumad/laravel-spanish-validator
+composer require moa-ti/laravel-spanish-validator
 ```
 
 The package will automatically register itself.
